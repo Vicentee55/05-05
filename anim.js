@@ -4,7 +4,7 @@ var lyricsData = [
   { text: "OIIIE MEU AMOR", time: 8 },
   { text: "Hoje nesse dia tao especial", time: 10 },
   { text: "quero te dedicar esse site que eu mesmo fiz :)", time: 12 },
-  { text: "eu te amo profundamente", time: 12 },
+  { text: "eu te amo profundamente", time: 14 },
   { text: "Seu carinho é meu lugar seguro.", time: 15 },
   { text: "Seu abraço é minha casa.", time: 22 },
   { text: "Você é meu maior orgulho.", time: 29 },
