@@ -3,7 +3,7 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "OIIIE MEU AMOR", time: 8 },
   { text: "Hoje nesse dia tao especial", time: 10 },
-  { text: "quero te dedicar esse site que eu mesmo fiz :)", time: 12 },
+  { text: "Quero te dedicar esse site que eu mesmo fiz :)", time: 12 },
   { text: "eu te amo profundamente", time: 14 },
   { text: "Seu carinho é meu lugar seguro.", time: 15 },
   { text: "Seu abraço é minha casa.", time: 22 },
@@ -14,7 +14,7 @@ var lyricsData = [
   { text: "Cada detalhe seu me encanta.", time: 57 },
   { text: "Te amar é leve, é certo.", time: 64 },
   { text: "Você me cuida como ninguém.", time: 71 },
-  { text: "E me faz sorrir sem esforço.", time: 78 },
+  { text: "E me faz sorrir todos os dias.", time: 78 },
   { text: "Eu te amo mais a cada dia.", time: 85 },
   { text: "Seu abraço é amor puro.", time: 92 },
   { text: "Seu sorriso é minha paz.", time: 99 },
